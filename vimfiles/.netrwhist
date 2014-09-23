@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/hawkwang/build/or-build/unisrc/config'
+let g:netrw_dirhist_2='/home/hawkwang/work/dramsim2/ini'
+let g:netrw_dirhist_3='/home/hawkwang/build/or-build/unisrc/config'
+let g:netrw_dirhist_4='/home/hawkwang/build/or-build/unisrc/INSTALL'
+let g:netrw_dirhist_5='/home/hawkwang/work/edk2/SourceLevelDebugPkg/DebugAgentPei'
+let g:netrw_dirhist_6='/etc/xen/scripts'
+let g:netrw_dirhist_7='/var/log/xen'
+let g:netrw_dirhist_8='/media/Intel/kernel/linux-0.11/scripts'
